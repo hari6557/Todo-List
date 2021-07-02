@@ -1,0 +1,19 @@
+.line {
+  width: 30%;
+  height: 2px;
+  background-color: black;
+}
+.Add_Input {
+  width: 20%;
+  height: 25px;
+  border-radius: 5px;
+  border-width: thin;
+}
+.Add_Button {
+  background-color: transparent;
+  border: 0ch;
+  position: relative;
+  left: 15px;
+  font-size: 1.1em;
+  cursor: pointer;
+}
